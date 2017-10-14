@@ -18,7 +18,7 @@ class MainDlg(QDialog):
         self.plainText = QTextEdit()
         # self.plainText.setEnabled(False)
         self.plainText.setReadOnly(True)
-        self.plainText.setText("给我可爱的宝贝")
+        self.plainText.setText("你好小女孩：")
         self.content = ""
 
         '''
